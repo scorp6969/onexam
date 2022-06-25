@@ -54,24 +54,23 @@
     </ul>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="images/cc01.jpg" alt="Los Angeles" width="1100" height="500">
+        <img src="images/cc04.jpg" alt="carousel 1">
         <div class="carousel-caption">
-          <h3>Los Angeles</h3>
-          <p>We had such a great time in LA!</p>
+          <h2>ONLINE EXAMINATION SYSTEM</h2>
         </div>
       </div>
       <div class="carousel-item">
-        <img src="images/cc02.jpg" alt="Chicago" width="1100" height="500">
+        <img src="images/cc02.jpg" alt="carousel 2">
         <div class="carousel-caption">
-          <h3>Chicago</h3>
-          <p>Thank you, Chicago!</p>
+          <!-- <h3>Chicago</h3>
+          <p>Thank you, Chicago!</p> -->
         </div>
       </div>
       <div class="carousel-item">
-        <img src="images/cc03.jpg" alt="New York" width="1100" height="500">
+        <img src="images/cc01.jpg" alt="carousel 3">
         <div class="carousel-caption">
-          <h3>New York</h3>
-          <p>We love the Big Apple!</p>
+          <!-- <h3>New York</h3>
+          <p>We love the Big Apple!</p> -->
         </div>
       </div>
     </div>
